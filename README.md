@@ -1,1 +1,1 @@
-Django官网1.5的tutorials
+Django官网1.11版的tutorials
